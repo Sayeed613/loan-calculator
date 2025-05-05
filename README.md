@@ -109,4 +109,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [TailwindCSS](https://tailwindcss.com/) for utility classes
 
 ## Deployed Link
--
+- https://loan-calculator-lzg0.onrender.com/
